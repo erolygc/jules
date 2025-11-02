@@ -1,0 +1,62 @@
+2025-11-02 17:10:54.237 | INFO     | database:create_tables:34 - Tablolar başarıyla oluşturuldu.
+2025-11-02 17:10:54.238 | INFO     | __main__:get_product_links:26 - Starting virtual display...
+2025-11-02 17:10:54.523 | INFO     | __main__:get_product_links:29 - Virtual display started.
+2025-11-02 17:10:54.523 | INFO     | __main__:get_product_links:31 - Setting up Chrome options...
+2025-11-02 17:10:54.523 | INFO     | __main__:get_product_links:37 - Chrome options set.
+2025-11-02 17:10:54.524 | INFO     | __main__:get_product_links:39 - Initializing undetected_chromedriver...
+2025-11-02 17:10:57.496 | INFO     | __main__:get_product_links:41 - WebDriver initialized.
+2025-11-02 17:10:57.497 | INFO     | __main__:get_product_links:43 - Navigating to URL: https://www.trendyol.com/elektronik-x-c109
+2025-11-02 17:11:02.817 | INFO     | __main__:get_product_links:45 - Page loaded.
+2025-11-02 17:11:02.818 | INFO     | __main__:get_product_links:49 - Waiting for OneTrust cookie banner...
+2025-11-02 17:11:05.169 | INFO     | __main__:get_product_links:52 - Cookie banner found. Clicking 'Accept All'...
+2025-11-02 17:11:05.398 | INFO     | __main__:get_product_links:54 - Clicked 'Accept All' on cookie banner.
+2025-11-02 17:11:10.398 | INFO     | __main__:get_product_links:62 - Saving page source and screenshot for debugging...
+2025-11-02 17:11:11.014 | INFO     | __main__:get_product_links:66 - Debug files saved.
+2025-11-02 17:11:11.014 | INFO     | __main__:get_product_links:70 - Searching for product links...
+2025-11-02 17:11:11.033 | INFO     | __main__:get_product_links:73 - Found 0 product links.
+2025-11-02 17:11:11.033 | INFO     | __main__:get_product_links:81 - Closing WebDriver.
+2025-11-02 17:11:11.155 | INFO     | __main__:get_product_links:84 - Stopping virtual display.
+2025-11-02 17:11:11.160 | WARNING  | __main__:main:106 - No product links found.
+2025-11-02 17:11:50.442 | INFO     | database:create_tables:34 - Tablolar başarıyla oluşturuldu.
+2025-11-02 17:11:50.443 | INFO     | __main__:get_product_links:26 - Starting virtual display...
+2025-11-02 17:11:50.528 | INFO     | __main__:get_product_links:29 - Virtual display started.
+2025-11-02 17:11:50.528 | INFO     | __main__:get_product_links:31 - Setting up Chrome options...
+2025-11-02 17:11:50.528 | INFO     | __main__:get_product_links:37 - Chrome options set.
+2025-11-02 17:11:50.528 | INFO     | __main__:get_product_links:39 - Initializing undetected_chromedriver...
+2025-11-02 17:11:51.751 | INFO     | __main__:get_product_links:41 - WebDriver initialized.
+2025-11-02 17:11:51.751 | INFO     | __main__:get_product_links:43 - Navigating to URL: https://www.trendyol.com/elektronik-x-c109
+2025-11-02 17:11:55.102 | INFO     | __main__:get_product_links:45 - Page loaded.
+2025-11-02 17:11:55.102 | INFO     | __main__:get_product_links:49 - Waiting for OneTrust cookie banner...
+2025-11-02 17:11:56.990 | INFO     | __main__:get_product_links:52 - Cookie banner found. Clicking 'Accept All'...
+2025-11-02 17:11:57.343 | INFO     | __main__:get_product_links:54 - Clicked 'Accept All' on cookie banner.
+2025-11-02 17:12:02.343 | INFO     | __main__:get_product_links:62 - Saving page source and screenshot for debugging...
+2025-11-02 17:12:02.892 | INFO     | __main__:get_product_links:66 - Debug files saved.
+2025-11-02 17:12:02.892 | INFO     | __main__:get_product_links:70 - Searching for product links...
+2025-11-02 17:12:03.238 | INFO     | __main__:get_product_links:73 - Found 24 product links.
+2025-11-02 17:12:03.239 | INFO     | __main__:get_product_links:81 - Closing WebDriver.
+2025-11-02 17:12:03.371 | INFO     | __main__:get_product_links:84 - Stopping virtual display.
+2025-11-02 17:12:03.380 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/beyaz-unisex-sneaker-p-42713792
+2025-11-02 17:12:03.383 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/ds-storm-beyaz-siyah-unisex-sneaker-p-898536601
+2025-11-02 17:12:03.385 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/kadin-beyaz-pudra-sneaker-p-68329560
+2025-11-02 17:12:03.388 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/pasyone/siyah-kadin-fileli-gunluk-ayakkabi-p-861184481
+2025-11-02 17:12:03.390 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/riccon/unisex-siyah-sneaker-0012072-p-37155275
+2025-11-02 17:12:03.392 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/shupe/unisex-siyah-beyaz-bogazli-model-keten-spor-ayakkabi-sneaker-p-73558503
+2025-11-02 17:12:03.393 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/beyaz-mavi-unisex-sneaker-p-35839749
+2025-11-02 17:12:03.395 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/shupe/kadin-siyah-beyaz-spor-ayakkabi-sneaker-p-951532020
+2025-11-02 17:12:03.397 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/siyah-unisex-sneaker-p-42713791
+2025-11-02 17:12:03.399 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/shupe/kadin-gri-spor-ayakkabi-tas-gri-beyaz-sneaker-p-951536526
+2025-11-02 17:12:03.401 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/pasyone/lacivert-kadin-sneaker-gunluk-ayakkabi-p-891728961
+2025-11-02 17:12:03.404 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/shupe/kadin-beyaz-siyah-spor-ayakkabi-sneaker-p-951532074
+2025-11-02 17:12:03.406 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/ds-storm-siyah-siyah-unisex-sneaker-p-944364041
+2025-11-02 17:12:03.409 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/ds-ruby-suet-bej-taba-kadin-sneaker-p-940758882
+2025-11-02 17:12:03.411 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/pasyone/bej-kadin-sneaker-gunluk-ayakkabi-p-831888656
+2025-11-02 17:12:03.414 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/kadin-beyaz-pudra-sneaker-p-35839784
+2025-11-02 17:12:03.416 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/tonny-black/unisex-beyaz-siyah-termo-taban-yani-seritli-bagcikli-spor-ayakkabi-p-879885114
+2025-11-02 17:12:03.418 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/adidas/vl-court-3-0-ayakkabi-p-828498275
+2025-11-02 17:12:03.421 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/rimex/kadin-kahverengi-spor-ayakkabi-p-153711534
+2025-11-02 17:12:03.423 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/ds-storm-beyaz-pudra-unisex-sneaker-p-898534796
+2025-11-02 17:12:03.424 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/dark-seer/siyah-kadin-sneaker-p-88390091
+2025-11-02 17:12:03.426 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/genel-markalar/happy-valentines-day-kirazli-snaker-p-889335898
+2025-11-02 17:12:03.428 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/devida/kadin-beyaz-spor-ayakkabi-gunluk-rahat-kaymaz-air-taban-sneaker-n110-p-825290484
+2025-11-02 17:12:03.430 | INFO     | database:add_product:48 - Ürün eklendi: https://www.trendyol.com/adidas/kadin-pembe-sneaker-handball-spezial-w-js0250-p-893281378
+2025-11-02 17:12:03.430 | INFO     | __main__:main:113 - 24 links added to the database.

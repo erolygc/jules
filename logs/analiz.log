@@ -1,0 +1,26 @@
+2025-11-02 17:16:25.034 | INFO     | __main__:analyze_prices:41 - Starting price analysis...
+2025-11-02 17:16:25.036 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 24 to analyze.
+2025-11-02 17:16:25.036 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 18 to analyze.
+2025-11-02 17:16:25.036 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 7 to analyze.
+2025-11-02 17:16:25.036 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 1 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 14 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 20 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 2 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 13 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 16 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 3 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 21 to analyze.
+2025-11-02 17:16:25.037 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 9 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 23 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 22 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 15 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 11 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 4 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 5 to analyze.
+2025-11-02 17:16:25.038 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 19 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 12 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 10 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 8 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 6 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:53 - Not enough price history for product 17 to analyze.
+2025-11-02 17:16:25.039 | INFO     | __main__:analyze_prices:74 - Price analysis finished.
